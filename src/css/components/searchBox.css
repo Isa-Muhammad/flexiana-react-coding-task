@@ -1,0 +1,5 @@
+.searchBox {
+  @apply w-full h-full outline-none;
+  @apply flex justify-center items-center flex-1 h-12 pl-4 rounded;
+  @apply shadow shadow-current;
+}

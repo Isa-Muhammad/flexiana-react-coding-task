@@ -1,0 +1,11 @@
+main {
+  @apply w-full;
+}
+
+main-flex {
+  @apply flex pt-16;
+}
+
+.main-section {
+  @apply w-full h-screen p-5 lg:px-10 lg:px:10 lg:pt-5;
+}
