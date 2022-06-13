@@ -1,7 +1,7 @@
-import Searchbox from "./components/SearchBox";
+import Search from "./pages/Search";
 
 function App() {
-  return <Searchbox />;
+  return <Search />;
 }
 
 export default App;

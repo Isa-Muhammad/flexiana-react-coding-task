@@ -3,6 +3,8 @@
 @tailwind utilities;
 
 @import "./components/searchBox.css";
+@import "./components/select.css";
+@import "./components/repoCard.css";
 
 * {
   margin: 0;
@@ -11,7 +13,7 @@
 }
 
 body {
-  @apply bg-slate-50;
+  @apply bg-white;
   font-family: "Poppins", sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
