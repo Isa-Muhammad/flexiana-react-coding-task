@@ -1,0 +1,6 @@
+.select {
+  @apply w-full h-full outline-none;
+  /* @apply flex justify-center items-center flex-1 h-12 w-3 ml-3 rounded; */
+  @apply w-28 h-12 ml-2 rounded;
+  @apply shadow shadow-current;
+}

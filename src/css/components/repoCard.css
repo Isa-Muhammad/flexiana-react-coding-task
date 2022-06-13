@@ -1,0 +1,5 @@
+.repoCard {
+  @apply h-32 w-60 bg-white m-10  p-5;
+  @apply rounded-md shadow-md;
+  @apply flex flex-col justify-center;
+}
